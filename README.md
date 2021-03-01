@@ -18,7 +18,7 @@ python3 -m pip install -r requirements.txt
 python3 -m pip install click matplotlib 
 
 # Get a list of all available columns (space separated)
-python3 /Users/markem04/code/benfords-law-covid-vaccinations-data/benfords_law.py --help        
+python3 benfords_law.py --help        
 Usage: benfords_law.py [OPTIONS]
 
 Options:
