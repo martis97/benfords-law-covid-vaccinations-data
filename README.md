@@ -1,5 +1,4 @@
 # benfords-law-covid-vaccinations-data
-Python implementation of Benford's Law using World's Covid-19 vaccinations dataset. 
 The concept of grouping numbers based on which integer they start with and 
 noticing a pattern, regardless of where the numbers come from, has amazed me. May it retail
 prices or football stats.As long as the numbers have not been tampered with, 
